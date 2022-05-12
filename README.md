@@ -1,4 +1,3 @@
-# stock_avg_buy_price_calculator
 
 # Average Portfolio Cost Calculator
 
