@@ -7,4 +7,4 @@ If you have used laddering, this application will help you calculate the average
 the different elements in your portfolio.
 
 
-**Please click [here]() to view/use the average buy calculator**
+**Please click [here](https://share.streamlit.io/hussam95/stock_avg_buy_price_calculator/main/app.py) to view/use the average buy calculator**
