@@ -11,7 +11,7 @@ st.write("""
 ### Laddering is an important strategy when it comes to investing in financial markets.
 It allows you to place your buy orders with decreasing price thereby bringing down the average cost per share. 
 If you have used laddering, this application will help you calculate the average cost per share for
-your different elements in your portfolio.
+the different elements in your portfolio.
 
  """)
 
